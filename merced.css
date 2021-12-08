@@ -151,11 +151,21 @@ p + p {
 .footnotes {
     display: list-item;
     margin-left: 1em;
+    opacity: 1.0;
+    font-size: 0.8em;
+}
+
+.footnotes-area {
+    color: #333;
 }
 
 .footnotes-area > hr {
     border: none;
     margin: 0;
+}
+
+.footnote-line {
+    font-size: 0.8em;
 }
 
 pre, code, .md-fences {
