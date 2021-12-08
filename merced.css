@@ -338,3 +338,9 @@ blockquote > p+p{
 .md-header {
     font-size: inherit !important;
 }
+
+hr {
+    border-color: lightgray;
+    border-width: 0.5px;
+    border-style: solid;
+}
