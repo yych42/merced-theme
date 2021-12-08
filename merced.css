@@ -148,6 +148,16 @@ p + p {
     text-indent: 1.5em;
 }
 
+.footnotes {
+    display: list-item;
+    margin-left: 1em;
+}
+
+#footnotes-area > hr {
+    border: none;
+    margin: 0;
+}
+
 pre, code, .md-fences {
     border-radius: 3px;
     font-family: 'Space Mono', monospace !important;
@@ -155,11 +165,6 @@ pre, code, .md-fences {
     padding-right: 5px;
     font-size: 11pt;
     background-color: #f8f8f8;
-}
-
-.footnotes {
-    display: list-item;
-    margin-left: 1em;
 }
 
 .cm-s-inner.CodeMirror,
