@@ -153,7 +153,7 @@ p + p {
     margin-left: 1em;
 }
 
-#footnotes-area > hr {
+.footnotes-area > hr {
     border: none;
     margin: 0;
 }
