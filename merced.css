@@ -345,6 +345,13 @@ blockquote > p+p{
     min-width: 25px;
 }
 
+@media screen and (max-width: 500px) {
+    .CodeMirror-sizer {
+        /* Overides the default declaration that sets left-margin to zero. */
+        margin-left: 35px !important;
+    }
+}
+
 .md-header {
     font-size: inherit !important;
 }
