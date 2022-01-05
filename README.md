@@ -1,6 +1,8 @@
 # Merced: A serif-based theme for Typora
 A theme for [Typora](https://typora.io).
 
+Designed and tested on macOS. Not fully tested, but should work for Windows/Linux. But this theme does not include styles for Windows “unibody” style.
+
 ## Preview
 Open [this page](https://yych42.github.io/merced-theme/web-demo/index.html) to preview the theme in your browser.
 
