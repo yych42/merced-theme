@@ -2,7 +2,7 @@
 
 A theme for [Typora](https://typora.io).
 
-![](https://yych42.github.io/merced-theme/example/screenshot.png)
+![](https://raw.githubusercontent.com/yych42/merced-theme/main/example/screenshot.png)
 
 Designed and tested on macOS. Not fully tested, but should work for Windows/Linux. But this theme does not include styles for Windows “unibody” style.
 
