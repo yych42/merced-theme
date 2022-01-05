@@ -2,7 +2,7 @@
 
 ## Header 2: Notes on Typography
 
-Many students are trained to indent every paragraph of their text. This is not a universal rule; typographic conventions evolved for practical reasons before they were mystified. According to Bringhurst[^1]:
+K-12 education trained many students to indent every paragraph of their text without knowing why. Indentation is not a universal rule; typographic conventions evolved for practical reasons before they were mystified. According to Bringhurst[^1]:
 
 > The function of a paragraph indent is to mark a pause, setting the paragraph apart from what precedes it. If a paragraph is preceded by a title or subhead, the indent is superfluous and can therefore be omitted, as it is here.
 
@@ -41,4 +41,4 @@ Egestas sed tempus urna et pharetra pharetra. Donec massa sapien faucibus et mol
 
 ###### Header 6: Footnotes
 
-[^1]: Robert Bringhurst, *The Elements of Typographic Style*(Point Roberts, Wash. ; Vancouver: Hartley & Marks, 1992), 39
+[^1]: Robert Bringhurst, *The Elements of Typographic Style*(Point Roberts, Wash. ; Vancouver: Hartley & Marks, 2004), 39
